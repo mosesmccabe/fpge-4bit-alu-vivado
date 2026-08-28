@@ -434,7 +434,7 @@ fpga-4bit-alu-vivado/
 
 ---
 
-## What I Learned
+## Concepts Learned
 
 This project reinforced several FPGA and digital-design concepts:
 
@@ -454,21 +454,6 @@ This project reinforced several FPGA and digital-design concepts:
 
 ---
 
-## Future Improvements
-
-Possible extensions include:
-
-- Add XOR and additional ALU operations
-- Parameterize the operand width
-- Convert the testbench to a self-checking testbench
-- Exhaustively test all input combinations
-- Add SystemVerilog assertions
-- Map the ALU to physical FPGA switches, buttons, LEDs, or seven-segment displays
-- Run implementation and timing analysis
-- Explore pipelined ALU architectures
-
----
-
 ## Project Status
 
 - [x] RTL design
@@ -477,5 +462,4 @@ Possible extensions include:
 - [x] Status flag verification
 - [x] Vivado synthesis
 - [x] Synthesized schematic inspection
-- [ ] FPGA hardware implementation
-- [ ] Timing analysis
+
