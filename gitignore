@@ -1,0 +1,30 @@
+# Vivado generated files/directories
+.Xil/
+*.jou
+*.log
+*.str
+*.dmp
+*.wdb
+*.wcfg
+
+# Vivado project/generated directories
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+
+# Generated programming/debug artifacts
+*.bit
+*.bin
+*.ltx
+
+# Keep the repository portable by storing RTL/XDC directly
+*.xpr
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
